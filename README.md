@@ -1,6 +1,7 @@
 # Enable-Disable-JavaScript-Console-Logger-
 
 //Enable / Disable console.log
+
 var devEnv = true;
 
 var actualConsoleLogger = console.log;
